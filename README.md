@@ -12,6 +12,10 @@ TODOs:
 - [ ] and ... ?
 
 
-### Presentations
+## Presentations
 
 - [Phylogenetic Estimation of Time Since Infection](https://abriz97.github.io/HIV-phyloTSI-workshops/slides/), presented in Nairobi (🇰🇪) and Gaborone (🇧🇼).
+
+## Publications
+
+{% include_relative pages/PUBLICATION.md %}
