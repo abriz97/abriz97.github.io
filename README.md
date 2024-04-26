@@ -18,4 +18,4 @@ TODOs:
 
 ## Publications
 
-{% include_relative pages/PUBLICATION.md %}
+{% include_relative pages/PUBLICATIONS.md %}
