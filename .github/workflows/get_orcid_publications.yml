@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GH_PAT }}
       - name: Get ORCiD publications
         id: getOrcidPublications
         uses: TheAlbertDev/get-orcid-publications@v0.1.0
