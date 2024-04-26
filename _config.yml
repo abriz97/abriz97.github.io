@@ -1,0 +1,8 @@
+theme: jekyll-theme-minimal
+title: Your Website Title
+description: >- # this means to ignore newlines until "baseurl:"
+  Hi! I am Andrea, 
+  I am interested in the applications of (Bayesian) Statistics and Machine Learning to solve real-world problems.
+  Amateur footballer, runner, reader, boulderer and automator of useless things. 
+baseurl: "" 
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
