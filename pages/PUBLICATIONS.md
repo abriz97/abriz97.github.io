@@ -1,5 +1,3 @@
-# Publications
-
 | Authors | Title | Journal | Year |
 | --- | --- | --- | --- |
 | Andrea Brizzi, Joseph Kagaayi, Robert Ssekubugu | [Age and gender profiles of HIV infection burden and viraemia: novel metrics for HIV epidemic control in African populations with high antiretroviral therapy coverage](https://doi.org/10.1101/2024.04.21.24306145) | preprint | (2024) |
