@@ -8,5 +8,10 @@ baseurl: ""
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
              
 - name: Get ORCiD publications
+  id: getOrcidPublications
   uses: TheAlbertDev/get-orcid-publications@v0.1.0
+  with:
+    orcidId: "0000-0002-5639-8260"
+
+  
 
