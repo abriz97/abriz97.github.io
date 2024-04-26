@@ -21,7 +21,7 @@ jobs:
         with:
           orcidId: "0000-0002-5639-8260"
           publicationsFilePath: "data/"
-          publicationsFileName: "PUBLICATIONS.yml"
+          publicationsFileName: "PUBLICATIONS"
         # The action outputs the number of publications retrieved from ORCiD
         # and the FilenamePath of the generated file
       - name: Shows number of publication and FilePath
