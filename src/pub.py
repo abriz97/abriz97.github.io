@@ -15,7 +15,6 @@ get_journal = lambda pub: pub["journalTitle"] if pub["journalTitle"] else "prepr
 get_year = lambda pub: f"({pub['publicationDate']['year']})"
 
 with open('pages/PUBLICATIONS.md', 'w') as md_file:
-    md_file.write('# Publications\n\n')
     md_file.write('| Authors | Title | Journal | Year |\n')
     md_file.write('| --- | --- | --- | --- |\n')
     for pub in publications["works"]:
